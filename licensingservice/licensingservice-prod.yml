@@ -2,7 +2,7 @@ example.property: "I AM A DEV PROPERTY"
 # DATABASE SECTION
 spring.database.driverClassName: com.mysql.jdbc.Driver
 # DATASOURCE SECTION
-spring.datasource.url: jdbc:mysql://localhost:3306/SpringBootMS_prod
+spring.datasource.url: jdbc:mysql://5cg6105ddc.finbel.intra:3306/SpringBootMS_prod
 spring.datasource.username: root
 spring.datasource.password:
 spring.datasource.testWhileIdle: true
